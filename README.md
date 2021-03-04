@@ -24,7 +24,7 @@ Otimista, confiante e confiável, perseverante e resiliente, altamente sociável
 `Com pessoas:`
 Gerenciamento de equipes, Mentoria, Treinamento, Suporte técnico e Amizade forte :-)
 
-## O que eu estou aprendendo?
+## :books: O que eu estou aprendendo?
 
 ![GitHub milestone](https://img.shields.io/github/milestones/progress/edMaxi/dio/1?style=for-the-badge)
 
@@ -34,3 +34,7 @@ Gerenciamento de equipes, Mentoria, Treinamento, Suporte técnico e Amizade fort
 * Gerenciando equipes de desenvolvimento e implantação
 * Implantando LGPD
 * Avaliando stacks de produtividade para trabalho remoto
+
+## :soon:  O que eu quero fazer?
+* [x] Desenvolvimento mobile com Kotlin
+* [x] Desenvolvimento mobile com ReactNative
