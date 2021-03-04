@@ -7,6 +7,9 @@ Otimista, confiante e confiável, perseverante e resiliente, altamente sociável
 
 [![EdMaxi stats](https://github-readme-stats-edmaxi.vercel.app/api?username=edMaxi&hide=contribs&count_private=true&show_icons=true&title_color=0af&icon_color=fa0&text_color=ddd&bg_color=1a202c&hide_border=true&locale=pt-br&custom_title=Minhas%20Estatísticas%20no%20Github)](https://github.com/edmaxi/github-readme-stats)
 
+![test](https://visitor-badge.glitch.me/badge?page_id=edmaxi.edmaxi)
+
+
 ## :muscle: O que eu posso fazer?
 
 `Infraestrutura:` 
