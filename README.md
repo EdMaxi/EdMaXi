@@ -28,3 +28,9 @@ Gerenciamento de equipes, Mentoria, Treinamento, Suporte técnico e Amizade fort
 
 ![GitHub milestone](https://img.shields.io/github/milestones/progress/edMaxi/dio/1?style=for-the-badge)
 
+## :construction: O que eu estou fazendo?
+
+* P.O. no projeto de Implantação do ERP Protheus da TOTVS
+* Gerenciando equipes de desenvolvimento e implantação
+* Implantando LGPD
+* Avaliando stacks de produtividade para trabalho remoto
