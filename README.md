@@ -1,11 +1,10 @@
-# Hey você me achou! Prazer eu sou o Ed :smile:
+# Muito Prazer eu sou Ed 😁
 
-Ednei Almeida, CIO da [Confiatec - Soluções em TI](https://www.confiatec.com.br), audidata, que aprendeu a aprender 
-de forma tão peculiar que passou a ganhar a vida criando soluções robustas para os clientes, com um alto grau de 
-complexidade e que cabe no bolso.  
+Ednei Almeida, CIO da [Confiatec - Soluções em TI](https://www.confiatec.com.br), desenvolvedor de soluções aderentes ao
+negócio do cliente, considerando escopo, prazo e budget.  
 Otimista, confiante e confiável, perseverante e resiliente, altamente sociável são palavras que me definem.
 
-## :muscle: O que eu posso fazer?
+## 💪 O que eu posso fazer?
 
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Linux-ccc?style=flat&logo=linux&logoColor=black)
@@ -52,7 +51,7 @@ Uma serie de integrações realizadas
 ![](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)
 -->
 
-## :books: O que eu estou aprendendo?
+## 📚 O que eu estou aprendendo?
 
 ![](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -60,18 +59,18 @@ Uma serie de integrações realizadas
 
 ![GitHub milestone](https://img.shields.io/github/milestones/progress/edMaxi/dio/1?style=for-the-badge)
 
-## :construction: O que eu estou fazendo?
+## 🚀 O que eu estou fazendo?
 
 * P.O. no projeto de Implantação do ERP Protheus da TOTVS
 * Gerenciando equipes de desenvolvimento e implantação
 * Implantando LGPD
 * Avaliando stacks de produtividade para trabalho remoto
 
-## :soon:  O que eu quero fazer?
+## 🌟  O que eu quero fazer?
 * [x] Desenvolvimento mobile com Kotlin
 * [x] Desenvolvimento mobile com ReactNative
 
-## :speech_balloon: Como falar comigo?
+## 👋 Como falar comigo?
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511999461122&text=Oi%20Ed%2C%20contato%20pelo%20Github%2C%20tudo%20bem%3F)
 [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/390916657993875467)
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=0af)](https://github.com/EdMaxi/EdMaxi/discussions/new)
