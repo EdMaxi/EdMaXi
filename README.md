@@ -5,11 +5,6 @@ de forma tão peculiar que passou a ganhar a vida criando soluções robustas pa
 complexidade e que cabe no bolso.  
 Otimista, confiante e confiável, perseverante e resiliente, altamente sociável são palavras que me definem.
 
-[![EdMaxi stats](https://github-readme-stats-edmaxi.vercel.app/api?username=edMaxi&hide=contribs&count_private=true&show_icons=true&title_color=0af&icon_color=fa0&text_color=ddd&bg_color=1a202c&hide_border=true&locale=pt-br&custom_title=Minhas%20Estatísticas%20no%20Github)](https://github.com/edmaxi/github-readme-stats)
-
-![test](https://visitor-badge.glitch.me/badge?page_id=edmaxi.edmaxi)
-
-
 ## :muscle: O que eu posso fazer?
 
 `Infraestrutura:` 
@@ -41,3 +36,12 @@ Gerenciamento de equipes, Mentoria, Treinamento, Suporte técnico e Amizade fort
 ## :soon:  O que eu quero fazer?
 * [x] Desenvolvimento mobile com Kotlin
 * [x] Desenvolvimento mobile com ReactNative
+
+## Como falar comigo?
+[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511999461122&text=Oi%20Ed%2C%20contato%20pelo%20Github%2C%20tudo%20bem%3F)
+[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/390916657993875467)
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=0af)](https://github.com/EdMaxi/EdMaxi/discussions/new)
+
+[![EdMaxi stats](https://github-readme-stats-edmaxi.vercel.app/api?username=edMaxi&hide=contribs&count_private=true&show_icons=true&title_color=0af&icon_color=fa0&text_color=ddd&bg_color=1a202c&hide_border=true&locale=pt-br&custom_title=Minhas%20Estatísticas%20no%20Github)](https://github.com/edmaxi/github-readme-stats)
+
+![visitantes](https://visitor-badge.glitch.me/badge?page_id=edmaxi.edmaxi)
