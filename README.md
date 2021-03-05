@@ -7,7 +7,6 @@ Otimista, confiante e confiável, perseverante e resiliente, altamente sociável
 
 ## :muscle: O que eu posso fazer?
 
-### `Infraestrutura`
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Linux-ccc?style=flat&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/Amazon-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
@@ -26,7 +25,6 @@ Otimista, confiante e confiável, perseverante e resiliente, altamente sociável
 ![](https://img.shields.io/badge/Google-sheets-47A248?style=flat&logo=google-sheets&logoColor=white)
 ![](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-### `Desenvolvimento`
 ![](https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=1d1d1d)
 ![](https://img.shields.io/badge/C_Sharp-239120?style=flat&logo=c-sharp&logoColor=white)
 ![](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -43,13 +41,16 @@ Otimista, confiante e confiável, perseverante e resiliente, altamente sociável
 ![](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
-### `Integrações` 
+<!--
+### `Integrações`
+Uma serie de integrações realizadas
 ![](https://img.shields.io/badge/Paypal-00457C?style=flat&logo=paypal&logoColor=white)
 ![](https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white)
 ![](https://img.shields.io/badge/PagSeguro-FFC801?style=flat&logo=pagseguro&logoColor=1d1d1d)
 ![](https://img.shields.io/badge/Trello-0079BF?style=flat&logo=trello&logoColor=white)
 ![](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)
 ![](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)
+-->
 
 ## :books: O que eu estou aprendendo?
 
