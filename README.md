@@ -1,8 +1,9 @@
 # Muito Prazer eu sou Ed 😁
 
-Ednei Almeida, CIO da [Confiatec - Soluções em TI](https://www.confiatec.com.br), desenvolvedor de soluções aderentes ao
-negócio do cliente, considerando escopo, prazo e budget.  
-Otimista, confiante e confiável, perseverante e resiliente, altamente sociável são palavras que me definem.
+Ednei Almeida, fundador da [Confiatec](https://www.confiatec.com.br), desenvolvedor de soluções em TI específicas para o cliente.  
+Experiência em Infraestrutura e desenvolvimento, com diverentes plataformas (on-premises e cloud) e linguagens de programação (web, mobile e desktop)
+Otimista, confiante e confiável, perseverante e resiliente, e pense numa pessoa bacana pra fazer amizade?
+Aproveita que leu até aqui e já se conecta aí comigo, bora bater um papo e aprender juntos!
 
 ## 💪 O que eu posso fazer?
 
@@ -56,6 +57,7 @@ Uma serie de integrações realizadas
 ![](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Next.js-0095D5?style=flat&logo=next.js&logoColor=white)
 
 ![GitHub milestone](https://img.shields.io/github/milestones/progress/edMaxi/dio/1?style=for-the-badge)
 
@@ -65,6 +67,7 @@ Uma serie de integrações realizadas
 * Gerenciando equipes de desenvolvimento e implantação
 * Implantando LGPD
 * Avaliando stacks de produtividade para trabalho remoto
+* Avaliando comunidades de desenvolvimento para chamar de "minha"
 
 ## 🌟  O que eu quero fazer?
 * [x] Desenvolvimento mobile com Kotlin
