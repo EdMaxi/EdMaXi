@@ -1,8 +1,9 @@
 # Muito Prazer eu sou Ed 😁
 
 Ednei Almeida, fundador da [Confiatec](https://www.confiatec.com.br), desenvolvedor de soluções em TI específicas para o cliente.  
-Experiência em Infraestrutura e desenvolvimento, com diverentes plataformas (on-premises e cloud) e linguagens de programação (web, mobile e desktop)
+Experiência em Infraestrutura e desenvolvimento, com diverentes plataformas (on-premises e cloud) e linguagens de programação (web, mobile e desktop)  
 Otimista, confiante e confiável, perseverante e resiliente, e pense numa pessoa bacana pra fazer amizade?
+
 Aproveita que leu até aqui e já se conecta aí comigo, bora bater um papo e aprender juntos!
 
 ## 💪 O que eu posso fazer?
