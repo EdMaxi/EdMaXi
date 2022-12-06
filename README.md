@@ -1,10 +1,10 @@
 # Muito Prazer eu sou Ed 😁
 
 Ednei Almeida, fundador da [Confiatec](https://www.confiatec.com.br), desenvolvedor de soluções em TI específicas para o cliente.  
-Experiência em Infraestrutura e desenvolvimento, com diverentes plataformas (on-premises e cloud) e linguagens de programação (web, mobile e desktop)  
-Otimista, confiante e confiável, perseverante e resiliente, e pense numa pessoa bacana pra fazer amizade?
+Experiência em Infraestrutura e desenvolvimento, com diferentes plataformas (on-premises e cloud) e linguagens de programação (web, mobile e desktop)  
+Otimista, confiante e confiável, perseverante e resiliente... pense num cara top pra fazer amizade?
 
-Aproveita que leu até aqui e já se conecta aí comigo, bora bater um papo e aprender juntos!
+Aproveita que leu até aqui e se conecta aí comigo, bora bater um papo e aprender juntos!
 
 ## 💪 O que eu posso fazer?
 
@@ -51,28 +51,27 @@ Uma serie de integrações realizadas
 ![](https://img.shields.io/badge/Trello-0079BF?style=flat&logo=trello&logoColor=white)
 ![](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)
 ![](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)
+![kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+![git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![github](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)
 -->
 
 ## 📚 O que eu estou aprendendo?
 
-![kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
-![git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![github](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)
+![powerapps](https://img.shields.io/badge/Power_Apps-742774?style=flat&logo=powerapps&logoColor=white)
+![reactjs](https://img.shields.io/badge/ReactJS-0095D5?style=flat&logo=reactjs&logoColor=white)
 ![nextjs](https://img.shields.io/badge/Next.js-0095D5?style=flat&logo=next.js&logoColor=white)
 
 ![GitHub milestone](https://img.shields.io/github/milestones/progress/edMaxi/dio/1?style=for-the-badge)
 
 ## 🚀 O que eu estou fazendo?
 
-* P.O. no projeto de Implantação do ERP Protheus da TOTVS
-* Gerenciando equipes de desenvolvimento e implantação
 * Implantando LGPD
-* Avaliando stacks de produtividade para trabalho remoto
-* Avaliando comunidades de desenvolvimento para chamar de "minha"
+* Desenvolvendo processos empresariais
+* Desenvolvendo com PowerApps com foco em aderência e validação de processos
 
 ## 🌟  O que eu quero fazer?
 
-* [x] Desenvolvimento mobile com Kotlin
 * [x] Desenvolvimento mobile com ReactNative
 
 ## 👋 Como falar comigo?
