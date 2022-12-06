@@ -54,15 +54,14 @@ Uma serie de integrações realizadas
 ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 ![git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)
+![GitHub milestone](https://img.shields.io/github/milestones/progress/edMaxi/dio/1?style=for-the-badge)
 -->
 
 ## 📚 O que eu estou aprendendo?
 
 ![powerapps](https://img.shields.io/badge/Power_Apps-742774?style=flat&logo=powerapps&logoColor=white)
-![reactjs](https://img.shields.io/badge/ReactJS-0095D5?style=flat&logo=reactjs&logoColor=white)
+![reactjs](https://img.shields.io/badge/ReactJS-0095D5?style=flat&logo=react&logoColor=white)
 ![nextjs](https://img.shields.io/badge/Next.js-0095D5?style=flat&logo=next.js&logoColor=white)
-
-![GitHub milestone](https://img.shields.io/github/milestones/progress/edMaxi/dio/1?style=for-the-badge)
 
 ## 🚀 O que eu estou fazendo?
 
